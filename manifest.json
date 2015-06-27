@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Цена словима на српском",
+  "version": "0.1",
+
+  "description": "Исписује словима унету цену на српском језику ћирилицом и латиницом.",
+  "icons": { "16": "icon16.png",
+             "32": "icon32.png",
+             "48": "icon48.png",
+             "96": "icon96.png",
+            "128": "icon128.png"},
+
+  "author": "Никола Радовановић (cobisimo@gmail.com)",
+  "background": {
+    "persistent": false
+  },
+  "homepage_url": "https://github.com/cobisimo/slovima"
+}
