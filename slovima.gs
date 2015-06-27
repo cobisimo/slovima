@@ -1,7 +1,7 @@
 /**
  * Генерише испис словима на српском унете цене
  *
- * @param {cena} input Numeric price.
+ * @param {cena} нумеричка вредност цене.
  * @customfunction
  */
 function SLOVIMA(cena) {
@@ -134,7 +134,7 @@ function SLOVIMA(cena) {
 /**
  * Generiše ispis slovima na srpskom unete cene
  *
- * @param {cena} input Numeric price.
+ * @param {cena} numerička vrednost cene.
  * @customfunction
  */
 function SLOVIMA_LAT(cena) {
